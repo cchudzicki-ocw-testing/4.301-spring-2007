@@ -7,7 +7,11 @@ image_metadata:
   caption: Christy Eng Made Public project "Consume or Perish or Recycle and Flourish"
   credit: Image courtesy of Christy Eng
   image-alt: Christy Eng Made Public project "Consume or Perish or Recycle and Flourish"
+learning_resource_types: []
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 1eng.jpg
+type: OCWImage
 uid: 1f477340-1958-80b3-4ecc-94cfb5454255
 ---

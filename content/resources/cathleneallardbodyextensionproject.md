@@ -7,7 +7,12 @@ image_metadata:
   caption: Cathlene Allard Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Cathlene Allard Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Cathlene Allard Body Extension Project.jpeg
+type: OCWImage
 uid: 1cc87046-b728-892d-bc1b-98dbb5c3e80c
 ---

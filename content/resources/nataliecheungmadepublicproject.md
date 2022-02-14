@@ -7,7 +7,12 @@ image_metadata:
   caption: Natalie Cheung Made Public Project
   credit: Image courtesy of MIT
   image-alt: Natalie Cheung Made Public Project
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: NatalieCheungMadePublicProject.jpeg
+type: OCWImage
 uid: 89c1b102-7790-dc90-3aa1-706b6ef14766
 ---

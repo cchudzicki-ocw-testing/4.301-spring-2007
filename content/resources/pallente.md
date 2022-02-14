@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: pallente.jpg
+type: OCWImage
 uid: ea8d539e-2886-1fa3-6416-cfa02eb51625
 ---

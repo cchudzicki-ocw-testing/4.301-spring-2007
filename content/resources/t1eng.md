@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T1eng.jpg
+type: OCWImage
 uid: 7979f77c-5874-17ef-f366-c7192cbddaa0
 ---

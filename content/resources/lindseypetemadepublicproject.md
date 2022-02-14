@@ -7,7 +7,12 @@ image_metadata:
   caption: Lindsey Pete Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: 'Lindsey Pete Made Public Project. '
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Lindsey Pete Made Public Project.jpeg
+type: OCWImage
 uid: e4b64fef-8a36-c80b-89c4-d0c669ff58f9
 ---

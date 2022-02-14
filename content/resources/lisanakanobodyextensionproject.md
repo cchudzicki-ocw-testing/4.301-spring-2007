@@ -7,7 +7,12 @@ image_metadata:
   caption: Lisa Nakano Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Lisa Nakano Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Lisa Nakano Body Extension Project.jpeg
+type: OCWImage
 uid: df37828d-679a-5f34-5a6d-e829b1e6e3ff
 ---

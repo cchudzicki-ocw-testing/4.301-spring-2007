@@ -7,7 +7,12 @@ image_metadata:
   caption: Natalie Cheung Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Natalie Cheung Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Natalie Cheung Body Extension Project.jpeg
+type: OCWImage
 uid: e1c680f0-4e12-4dac-7bf1-8a8ca71673e3
 ---

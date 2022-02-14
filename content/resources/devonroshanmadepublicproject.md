@@ -7,7 +7,12 @@ image_metadata:
   caption: Devon Roshan Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Devon Roshan Made Public Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Devon Roshan Made Public Project.jpeg
+type: OCWImage
 uid: 933abd2e-abf5-d3b2-b7de-e32bd489b382
 ---

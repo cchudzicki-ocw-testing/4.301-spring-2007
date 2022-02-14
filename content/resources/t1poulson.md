@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T1poulson.jpg
+type: OCWImage
 uid: 3832a7dc-0f8c-5b1f-3af8-3715d56c6673
 ---

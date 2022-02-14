@@ -7,7 +7,12 @@ image_metadata:
   caption: Matthew Faulkner Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Matthew Faulkner Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Matthew Faulkner Body Extension Project.jpeg
+type: OCWImage
 uid: e28a0f9a-ccda-8843-5d02-1374f0cdaeb7
 ---

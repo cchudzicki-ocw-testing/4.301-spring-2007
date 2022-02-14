@@ -7,7 +7,12 @@ image_metadata:
   caption: Paul Boudreau Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Paul Boudreau Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Paul Boudreau Body Extension Project.jpeg
+type: OCWImage
 uid: c9126c39-4572-aa80-cee3-85451705747e
 ---

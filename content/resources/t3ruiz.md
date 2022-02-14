@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T3ruiz.jpg
+type: OCWImage
 uid: 932217d9-0ecf-9c67-1c05-4e27ffffa64e
 ---

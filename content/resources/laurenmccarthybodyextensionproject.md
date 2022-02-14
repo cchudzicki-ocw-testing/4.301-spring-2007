@@ -7,7 +7,12 @@ image_metadata:
   caption: Lauren McCarthy Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Lauren McCarthy Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Lauren McCarthy Body Extension Project.jpeg
+type: OCWImage
 uid: 45aae8d1-1ca2-ff3f-37b6-aa654daad771
 ---

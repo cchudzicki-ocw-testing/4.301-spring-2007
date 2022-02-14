@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T1wang.jpg
+type: OCWImage
 uid: 88a0fca9-b205-6b33-1398-320dcf7288d2
 ---

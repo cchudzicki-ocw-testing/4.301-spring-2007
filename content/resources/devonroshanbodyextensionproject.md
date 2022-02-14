@@ -7,7 +7,12 @@ image_metadata:
   caption: Devon Roshan Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Devon Roshan Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Devon Roshan Body Extension Project.jpeg
+type: OCWImage
 uid: 6928fc9c-2d8a-a6fa-5e9d-6a2a7f01515a
 ---

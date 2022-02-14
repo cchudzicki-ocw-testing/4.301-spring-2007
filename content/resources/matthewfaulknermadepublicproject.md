@@ -7,7 +7,12 @@ image_metadata:
   caption: Matthew Faulkner Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Matthew Faulkner Made Public Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Matthew Faulkner Made Public Project.jpeg
+type: OCWImage
 uid: 5c51eb79-ab81-687b-ad19-72d8b4ae46cc
 ---

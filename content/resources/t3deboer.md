@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T3deboer.jpg
+type: OCWImage
 uid: 0b1440bb-4258-6616-40d0-499896acc4d6
 ---

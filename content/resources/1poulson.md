@@ -7,7 +7,11 @@ image_metadata:
   caption: Shauntel Poulson Made Public project "Tranquility Within Tension"
   credit: Image courtesy of Shauntel Poulson
   image-alt: Shauntel Poulson Made Public project "Tranquility Within Tension"
+learning_resource_types: []
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 1poulson.jpg
+type: OCWImage
 uid: ef1f93ab-86b9-19f2-b1c0-6d44f988b782
 ---

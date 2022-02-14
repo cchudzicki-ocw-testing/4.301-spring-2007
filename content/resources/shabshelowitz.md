@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: shabshelowitz.jpg
+type: OCWImage
 uid: 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a
 ---

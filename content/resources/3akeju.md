@@ -7,7 +7,11 @@ image_metadata:
   caption: 'Body Extension Project by Usman Akeju: The Burden'
   credit: Image courtesy of Usman Akeju
   image-alt: 'Body Extension Project by Usman Akeju: The Burden'
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 3akeju.jpg
+type: OCWImage
 uid: d78bc18f-ac30-b293-80d4-42134aa9ba30
 ---

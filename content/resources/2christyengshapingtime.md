@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 2ChristyEngShapingTime.jpg
+type: OCWImage
 uid: c1709db1-8f70-b546-5d5a-97d250846a03
 ---

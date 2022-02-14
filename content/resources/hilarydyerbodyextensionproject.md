@@ -7,7 +7,12 @@ image_metadata:
   caption: Hilary Dyer Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: 'Hilary Dyer Body Extension Project. '
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Hilary Dyer Body Extension Project.jpeg
+type: OCWImage
 uid: 951ba4ee-ef6d-b221-6dab-afd6cdcd70e3
 ---

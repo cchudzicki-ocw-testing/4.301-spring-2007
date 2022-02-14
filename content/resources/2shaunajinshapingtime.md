@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 2ShaunaJinShapingTime.jpg
+type: OCWImage
 uid: 9d5463cb-6dda-dfd6-a3ed-b1cfb76e0d9e
 ---

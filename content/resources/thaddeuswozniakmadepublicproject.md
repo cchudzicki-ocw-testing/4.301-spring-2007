@@ -7,7 +7,12 @@ image_metadata:
   caption: Thaddeus Wozniak Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Thaddeus Wozniak Made Public Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Thaddeus Wozniak Made Public Project.jpeg
+type: OCWImage
 uid: aed10cf8-81ce-25b2-8f2e-cf29ceba6a7a
 ---

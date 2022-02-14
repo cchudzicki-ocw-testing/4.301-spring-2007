@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T3jin.jpg
+type: OCWImage
 uid: e522427f-eb5c-d042-ffd2-e220957e1caa
 ---

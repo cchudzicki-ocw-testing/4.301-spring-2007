@@ -7,7 +7,12 @@ image_metadata:
   caption: Paul Boudreau Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Paul Boudreau Made Public Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Paul Boudreau Made Public Project.jpeg
+type: OCWImage
 uid: 1c7986e4-0c78-4e10-2424-339a2aa7d9b7
 ---

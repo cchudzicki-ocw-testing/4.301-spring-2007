@@ -7,7 +7,12 @@ image_metadata:
   caption: Lisa Nakano Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Lisa Nakano Made Public Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Lisa Nakano Made Public Project.jpeg
+type: OCWImage
 uid: 562de0e5-3fea-3c8c-f628-84948fa8fa27
 ---

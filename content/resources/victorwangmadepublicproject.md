@@ -7,7 +7,12 @@ image_metadata:
   caption: Victor Wang Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: 'Victor Wang Made Public Project. '
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Victor Wang Made Public Project.jpeg
+type: OCWImage
 uid: 18c0c723-ab80-b404-802d-2075a3b7699e
 ---

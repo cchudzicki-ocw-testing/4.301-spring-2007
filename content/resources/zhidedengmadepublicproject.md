@@ -7,7 +7,12 @@ image_metadata:
   caption: ZhiDe Deng Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: 'ZhiDe Deng Made Public Project. '
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: ZhiDe Deng Made Public Project.jpeg
+type: OCWImage
 uid: 9587dc22-c540-cb7b-2f21-9b31983540ff
 ---

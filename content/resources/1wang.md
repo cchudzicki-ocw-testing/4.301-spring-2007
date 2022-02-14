@@ -7,7 +7,11 @@ image_metadata:
   caption: Tiffany Wang Made Public project "Untitled"
   credit: Image courtesy of Tiffany Wang
   image-alt: Tiffany Wang Made Public project "Untitled"
+learning_resource_types: []
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 1wang.jpg
+type: OCWImage
 uid: ac8a0bd2-6b14-bbb1-2b0e-708de4dbb6da
 ---

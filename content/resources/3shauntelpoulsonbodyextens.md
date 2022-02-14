@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 3ShauntelPoulsonBodyExtens.jpg
+type: OCWImage
 uid: 3308dd70-3c64-63c0-584f-ad3aa2adcdf8
 ---

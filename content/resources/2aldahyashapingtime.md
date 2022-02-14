@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 2AlDahyaShapingTime.jpg
+type: OCWImage
 uid: 359a6fac-cac2-806c-4e48-588459d412be
 ---

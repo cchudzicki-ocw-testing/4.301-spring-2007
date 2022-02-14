@@ -7,7 +7,11 @@ image_metadata:
   caption: Shauna Jin Body Extension project "Untitled"
   credit: Image courtesy of Shauna Jin
   image-alt: Shauna Jin Body Extension project "Untitled"
+learning_resource_types: []
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 3jin.jpg
+type: OCWImage
 uid: ab0d271a-bcbb-ad4f-5c45-539039c24e83
 ---

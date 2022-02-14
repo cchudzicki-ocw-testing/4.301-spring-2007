@@ -7,7 +7,12 @@ image_metadata:
   caption: Elisabeth Lex Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: 'Elisabeth Lex Body Extension Project. '
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: ElisabethLexBodyExtensionProject.jpeg
+type: OCWImage
 uid: 150c649e-b8fb-45f0-9fe1-1e8d7397b656
 ---

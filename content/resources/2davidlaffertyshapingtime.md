@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 2DavidLaffertyShapingTime.jpg
+type: OCWImage
 uid: 19839867-8117-cc02-0fe5-3ee8f303f57c
 ---

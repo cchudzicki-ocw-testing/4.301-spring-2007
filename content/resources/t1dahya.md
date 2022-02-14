@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T1dahya.jpg
+type: OCWImage
 uid: b76695d3-7ed7-1462-c39c-bf13796c0f20
 ---

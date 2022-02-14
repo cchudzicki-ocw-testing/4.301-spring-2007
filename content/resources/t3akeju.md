@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T3akeju.jpg
+type: OCWImage
 uid: 89539645-84b1-d561-4295-bc33b31b37bf
 ---

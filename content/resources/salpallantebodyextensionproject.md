@@ -7,7 +7,12 @@ image_metadata:
   caption: Sal Pallante Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Sal Pallante Body Extension Project.
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Sal Pallante Body Extension Project.jpeg
+type: OCWImage
 uid: be95910f-14e3-a084-1edf-c3ba8ac3f57b
 ---
