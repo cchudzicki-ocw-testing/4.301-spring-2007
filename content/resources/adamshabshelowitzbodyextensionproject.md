@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Adam Shabshelowitz Body Extension Project.jpeg
-type: OCWImage
 uid: a1dd7bb7-cfe3-79b1-c9cf-2a9dfe7a872d
 ---

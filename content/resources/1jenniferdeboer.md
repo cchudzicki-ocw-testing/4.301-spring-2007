@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 1jenniferdeboer.pdf
-type: OCWFile
 uid: d0e0b404-e10c-5f47-fd9f-4d5610468941
 ---

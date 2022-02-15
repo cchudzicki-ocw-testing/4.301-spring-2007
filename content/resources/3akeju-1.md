@@ -12,6 +12,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image
 title: 3akeju.jpg
-type: OCWImage
 uid: 38027242-6130-d928-0325-4b441985713f
 ---

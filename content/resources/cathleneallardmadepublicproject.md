@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Cathlene Allard Made Public Project.jpeg
-type: OCWImage
 uid: 843b6a14-a142-18f2-a486-984ef2e34165
 ---

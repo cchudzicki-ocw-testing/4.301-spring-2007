@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 2shaunajin.pdf
-type: OCWFile
 uid: 05ac0add-0eea-3905-706a-849209044167
 ---

@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 2TiffanyWangShapingTime.jpg
-type: OCWImage
 uid: e93eab1e-ebb2-be61-3947-c1da4a4942e5
 ---

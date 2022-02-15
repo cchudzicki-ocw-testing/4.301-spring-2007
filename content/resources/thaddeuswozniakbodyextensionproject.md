@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Thaddeus Wozniak Body Extension Project.jpeg
-type: OCWImage
 uid: dc5db572-2549-8503-da6a-ed4db80f2299
 ---

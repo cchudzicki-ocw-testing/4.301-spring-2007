@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 2usmanakeju.pdf
-type: OCWFile
 uid: 70156b1a-e22e-a180-4592-7c5444d002c5
 ---

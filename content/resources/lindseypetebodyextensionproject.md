@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Lindsey Pete Body Extension Project.jpeg
-type: OCWImage
 uid: 50aa5e24-0642-27a5-e3dc-303b1a0f5898
 ---

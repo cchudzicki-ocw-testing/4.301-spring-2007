@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Matthew Faulkner Made Public Project.jpeg
-type: OCWImage
 uid: 5c51eb79-ab81-687b-ad19-72d8b4ae46cc
 ---

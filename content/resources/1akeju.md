@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 1akeju.pdf
-type: OCWFile
 uid: 31b39f4f-03ba-7ca9-a6bd-e44caa5cb55d
 ---

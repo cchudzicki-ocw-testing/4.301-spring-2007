@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: T1ruiz.jpg
-type: OCWImage
 uid: 7de996cd-7831-fab3-fd0e-5f3064fc41cc
 ---

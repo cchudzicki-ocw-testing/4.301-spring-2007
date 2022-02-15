@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Elisabeth Lex Made Public Project.jpeg
-type: OCWImage
 uid: d8bc4082-d5be-61ad-cac7-44123a3c3197
 ---

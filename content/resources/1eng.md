@@ -12,6 +12,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image
 title: 1eng.jpg
-type: OCWImage
 uid: 1f477340-1958-80b3-4ecc-94cfb5454255
 ---

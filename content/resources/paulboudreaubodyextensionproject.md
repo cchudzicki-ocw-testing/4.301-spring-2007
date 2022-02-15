@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Paul Boudreau Body Extension Project.jpeg
-type: OCWImage
 uid: c9126c39-4572-aa80-cee3-85451705747e
 ---

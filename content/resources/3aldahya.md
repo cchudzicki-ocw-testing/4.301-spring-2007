@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 3AlDahya.pdf
-type: OCWFile
 uid: d1b74255-b35c-730c-f848-50524b6374aa
 ---

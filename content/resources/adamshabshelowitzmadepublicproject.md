@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Adam Shabshelowitz Made Public Project.jpeg
-type: OCWImage
 uid: c2a42b43-9400-b9c3-77b4-5df51fbbf8c2
 ---

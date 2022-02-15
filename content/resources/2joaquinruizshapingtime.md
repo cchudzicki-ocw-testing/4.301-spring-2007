@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 2JoaquinRuizShapingTime.jpg
-type: OCWImage
 uid: 608325e8-8a1f-7429-ac1d-b8c339ebd601
 ---

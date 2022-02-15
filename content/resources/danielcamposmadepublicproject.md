@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Daniel Campos Made Public Project.jpeg
-type: OCWImage
 uid: b86f9886-38fc-a30c-a964-c59f3ec4bae7
 ---

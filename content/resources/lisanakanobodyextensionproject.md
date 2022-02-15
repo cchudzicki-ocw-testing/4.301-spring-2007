@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Lisa Nakano Body Extension Project.jpeg
-type: OCWImage
 uid: df37828d-679a-5f34-5a6d-e829b1e6e3ff
 ---

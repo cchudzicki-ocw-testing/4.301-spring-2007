@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: faulkner.jpg
-type: OCWImage
 uid: 39cd94bc-d0ac-7dc4-31d2-22e69c4b2703
 ---

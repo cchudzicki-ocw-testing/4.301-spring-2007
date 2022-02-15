@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Lauren McCarthy Made Public Project.jpeg
-type: OCWImage
 uid: 3eb4bfd3-a3b3-1633-1c22-30949ab917cd
 ---

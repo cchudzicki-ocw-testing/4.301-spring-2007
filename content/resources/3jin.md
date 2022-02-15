@@ -12,6 +12,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image
 title: 3jin.jpg
-type: OCWImage
 uid: ab0d271a-bcbb-ad4f-5c45-539039c24e83
 ---

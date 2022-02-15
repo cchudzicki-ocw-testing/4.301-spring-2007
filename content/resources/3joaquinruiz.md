@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 3joaquinruiz.pdf
-type: OCWFile
 uid: 28550d7e-e591-725a-07e7-57a2d1aae9f2
 ---

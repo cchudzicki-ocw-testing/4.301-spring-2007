@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: assn2.pdf
-type: OCWFile
 uid: 2b248f7d-8a22-e43b-0f4b-d192d468bfe5
 ---

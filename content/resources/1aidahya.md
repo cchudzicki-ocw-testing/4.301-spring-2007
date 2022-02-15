@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 1aidahya.pdf
-type: OCWFile
 uid: 6ff2270e-4ca3-3f65-c80b-25e409bb5291
 ---

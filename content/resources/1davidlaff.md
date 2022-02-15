@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 1davidlaff.pdf
-type: OCWFile
 uid: 6429958e-3dae-09d5-b819-56d2909795cd
 ---

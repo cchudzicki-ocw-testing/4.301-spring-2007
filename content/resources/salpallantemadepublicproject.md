@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Sal Pallante Made Public Project.jpeg
-type: OCWImage
 uid: f099c07a-9053-a89f-8548-844c872ba84b
 ---

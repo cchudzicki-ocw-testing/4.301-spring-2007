@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: ZhiDe Deng Body Extension Project.jpeg
-type: OCWImage
 uid: bf4c1cb8-2637-443f-55e6-503718081f02
 ---

@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 1shauntelpoulson.pdf
-type: OCWFile
 uid: 66146bb9-afa4-ebfe-43e9-c55279d8b5f6
 ---

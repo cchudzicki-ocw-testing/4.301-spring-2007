@@ -6,7 +6,6 @@ parent_title: Projects
 parent_type: CourseSection
 parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 title: Student work 2004
-type: CourseSection
 uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 ---
 

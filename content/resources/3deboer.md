@@ -12,6 +12,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image
 title: 3deboer.jpg
-type: OCWImage
 uid: 03a3b21b-7268-b1c3-9508-22f7e285d59c
 ---

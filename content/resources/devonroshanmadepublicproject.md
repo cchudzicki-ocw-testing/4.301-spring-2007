@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Devon Roshan Made Public Project.jpeg
-type: OCWImage
 uid: 933abd2e-abf5-d3b2-b7de-e32bd489b382
 ---

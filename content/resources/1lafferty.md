@@ -12,6 +12,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image
 title: 1lafferty.jpg
-type: OCWImage
 uid: 84671fc9-0b24-4593-7f69-b709ca0dcb8b
 ---

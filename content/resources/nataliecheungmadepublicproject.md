@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: NatalieCheungMadePublicProject.jpeg
-type: OCWImage
 uid: 89c1b102-7790-dc90-3aa1-706b6ef14766
 ---

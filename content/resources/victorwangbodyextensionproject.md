@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Victor Wang Body Extension Project.jpeg
-type: OCWImage
 uid: 3d2c8fde-f3f5-59cc-6780-adf83dd3fe5d
 ---

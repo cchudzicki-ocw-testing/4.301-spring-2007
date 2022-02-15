@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: T3lafferty.jpg
-type: OCWImage
 uid: e0d96014-deed-f468-2f62-2c0116d55012
 ---

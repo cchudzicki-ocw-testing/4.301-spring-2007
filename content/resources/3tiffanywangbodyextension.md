@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 3TiffanyWangBodyExtension.jpg
-type: OCWImage
 uid: 5f68b073-f8c0-070e-3160-f476e8ed335e
 ---

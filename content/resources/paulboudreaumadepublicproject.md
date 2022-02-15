@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Paul Boudreau Made Public Project.jpeg
-type: OCWImage
 uid: 1c7986e4-0c78-4e10-2424-339a2aa7d9b7
 ---

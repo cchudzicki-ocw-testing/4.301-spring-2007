@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 3AlDahyaBodyExtension.jpg
-type: OCWImage
 uid: e74e3712-4693-2455-4f10-650a723aed80
 ---

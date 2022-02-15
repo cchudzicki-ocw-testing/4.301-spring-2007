@@ -12,6 +12,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image
 title: 3ruiz.jpg
-type: OCWImage
 uid: 21ce0574-f060-a0a4-78ec-7f3479f04cb8
 ---

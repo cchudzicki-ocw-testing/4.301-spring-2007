@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 2UsmanAkejuShapingTime.jpg
-type: OCWImage
 uid: afad7345-41c3-4a34-be70-f1d09f2140b3
 ---

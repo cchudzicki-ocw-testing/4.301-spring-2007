@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 2tiffanywang.pdf
-type: OCWFile
 uid: e0a80b3d-196b-b28c-bd89-b34bcfd42fd6
 ---

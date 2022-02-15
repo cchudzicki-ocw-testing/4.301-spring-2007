@@ -8,6 +8,5 @@ parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
 title: 2christyeng.pdf
-type: OCWFile
 uid: ddff4265-1788-001c-7782-f5af1e297e9d
 ---

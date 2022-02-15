@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 2JenniferDeBoerShapingTime.jpg
-type: OCWImage
 uid: 8babfeb0-2079-f403-7485-ebbf08a43b00
 ---

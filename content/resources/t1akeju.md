@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: T1akeju.jpg
-type: OCWImage
 uid: c91ad44f-760f-747f-47d4-28e51b4ea81e
 ---

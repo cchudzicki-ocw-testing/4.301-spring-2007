@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: 3ChristyEngBodyExtension.jpg
-type: OCWImage
 uid: b3f1030e-852b-d1d0-8aef-85c1b9b82f9d
 ---

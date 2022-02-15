@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: ZhiDe Deng Made Public Project.jpeg
-type: OCWImage
 uid: 9587dc22-c540-cb7b-2f21-9b31983540ff
 ---

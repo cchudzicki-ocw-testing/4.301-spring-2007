@@ -12,6 +12,5 @@ parent_title: thumbs
 parent_type: CourseSection
 resourcetype: Image
 title: camposs.jpg
-type: OCWImage
 uid: b2d10ebd-4fb5-d4cd-af99-95894a6a9556
 ---
