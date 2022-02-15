@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Joaquin Ruiz
   image-alt: Joaquin Ruiz Body Extension project "Head Shot"
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image

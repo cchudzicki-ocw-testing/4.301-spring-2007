@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Matthew Faulkner Made Public Project.
 learning_resource_types:
 - Projects
+ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image

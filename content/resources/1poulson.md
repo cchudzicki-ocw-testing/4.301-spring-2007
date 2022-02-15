@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Shauntel Poulson
   image-alt: Shauntel Poulson Made Public project "Tranquility Within Tension"
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Image

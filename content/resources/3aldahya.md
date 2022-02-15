@@ -4,6 +4,7 @@ description: This resource contains an example of a completed student project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/4-301-introduction-to-the-visual-arts-spring-2007/d1b74255b35c730cf84850524b6374aa_3AlDahya.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student work 2004
 parent_type: CourseSection
 resourcetype: Document
