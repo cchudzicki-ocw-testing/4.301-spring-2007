@@ -12,15 +12,15 @@ The class is organized around three sections, and each section has its own assig
 Assignments
 -----------
 
-Assignment 1: Shaping Time ({{< resource_link 8051543c-4217-eaf4-1aaa-eeecd2da5381 "PDF" >}})
+Assignment 1: Shaping Time ({{% resource_link 8051543c-4217-eaf4-1aaa-eeecd2da5381 "PDF" %}})
 
 Using demonstrated production and editing techniques, make a 90 second experimental video. Sound must be diegetic or self generated.
 
-Assignment 2: Body Extension ({{< resource_link 2b248f7d-8a22-e43b-0f4b-d192d468bfe5 "PDF" >}})
+Assignment 2: Body Extension ({{% resource_link 2b248f7d-8a22-e43b-0f4b-d192d468bfe5 "PDF" %}})
 
 Create an art work that exists as a "body extension," a sculptural/architectural/corporeal supplement. Use your own body as a starting point for an exploration of the self, including psychological and physical aspects and concepts of identity. The second part of the assignment asks you to interact with your body extension in a way that significantly alters your experience of it.
 
-Assignment 3: Made Public ({{< resource_link f03c3963-7e6a-d328-0f6a-4292e9b03525 "PDF" >}})
+Assignment 3: Made Public ({{% resource_link f03c3963-7e6a-d328-0f6a-4292e9b03525 "PDF" %}})
 
 Create a work of art in a public place that addresses the physical, psychological and social dimensions of the site. You will be asked to research various public sites in order to locate an appropriate context within which to respond. Consideration of the political and ethical implications of working in a public area will be central to the development of the project. Document your project appropriately.
 

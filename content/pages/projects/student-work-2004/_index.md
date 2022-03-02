@@ -262,9 +262,9 @@ STATEMENTS
 Usman Akeju
 {{< tdclose >}}
 {{< tdopen >}}
-Made Public ({{< resource_link 31b39f4f-03ba-7ca9-a6bd-e44caa5cb55d "PDF" >}})  
-Shaping Time ({{< resource_link 70156b1a-e22e-a180-4592-7c5444d002c5 "PDF" >}})  
-Body Extension ({{< resource_link 3ce388a5-abec-6227-e38e-e2301802e2a7 "PDF" >}})
+Made Public ({{% resource_link 31b39f4f-03ba-7ca9-a6bd-e44caa5cb55d "PDF" %}})  
+Shaping Time ({{% resource_link 70156b1a-e22e-a180-4592-7c5444d002c5 "PDF" %}})  
+Body Extension ({{% resource_link 3ce388a5-abec-6227-e38e-e2301802e2a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,9 +273,9 @@ Body Extension ({{< resource_link 3ce388a5-abec-6227-e38e-e2301802e2a7 "PDF" >}}
 Al Dahya
 {{< tdclose >}}
 {{< tdopen >}}
-Made Public ({{< resource_link 6ff2270e-4ca3-3f65-c80b-25e409bb5291 "PDF" >}})  
-Shaping Time ({{< resource_link d0fb6520-79c6-b5ca-4ad6-ad9344a36bd8 "PDF" >}})  
-Body Extension ({{< resource_link d1b74255-b35c-730c-f848-50524b6374aa "PDF" >}})
+Made Public ({{% resource_link 6ff2270e-4ca3-3f65-c80b-25e409bb5291 "PDF" %}})  
+Shaping Time ({{% resource_link d0fb6520-79c6-b5ca-4ad6-ad9344a36bd8 "PDF" %}})  
+Body Extension ({{% resource_link d1b74255-b35c-730c-f848-50524b6374aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,9 +284,9 @@ Body Extension ({{< resource_link d1b74255-b35c-730c-f848-50524b6374aa "PDF" >}}
 Jennifer DeBoer
 {{< tdclose >}}
 {{< tdopen >}}
-Made Public ({{< resource_link d0e0b404-e10c-5f47-fd9f-4d5610468941 "PDF" >}})  
-Shaping Time ({{< resource_link a4d6703b-460b-540e-9a47-30aeac977fd6 "PDF" >}})  
-Body Extension ({{< resource_link 10a1f633-274e-82b9-2826-4a6a75caaa27 "PDF" >}})
+Made Public ({{% resource_link d0e0b404-e10c-5f47-fd9f-4d5610468941 "PDF" %}})  
+Shaping Time ({{% resource_link a4d6703b-460b-540e-9a47-30aeac977fd6 "PDF" %}})  
+Body Extension ({{% resource_link 10a1f633-274e-82b9-2826-4a6a75caaa27 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,9 +295,9 @@ Body Extension ({{< resource_link 10a1f633-274e-82b9-2826-4a6a75caaa27 "PDF" >}}
 Christy Eng
 {{< tdclose >}}
 {{< tdopen >}}
-Made Public ({{< resource_link f4cbe92e-b98c-c218-de86-c35884c75484 "PDF" >}})  
-Shaping Time ({{< resource_link ddff4265-1788-001c-7782-f5af1e297e9d "PDF" >}})  
-Body Extension ({{< resource_link 99edad9e-067e-426f-c30a-93a1fdd492c5 "PDF" >}})
+Made Public ({{% resource_link f4cbe92e-b98c-c218-de86-c35884c75484 "PDF" %}})  
+Shaping Time ({{% resource_link ddff4265-1788-001c-7782-f5af1e297e9d "PDF" %}})  
+Body Extension ({{% resource_link 99edad9e-067e-426f-c30a-93a1fdd492c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +306,7 @@ Body Extension ({{< resource_link 99edad9e-067e-426f-c30a-93a1fdd492c5 "PDF" >}}
 Shauna Jin
 {{< tdclose >}}
 {{< tdopen >}}
-Shaping Time ({{< resource_link 05ac0add-0eea-3905-706a-849209044167 "PDF" >}})
+Shaping Time ({{% resource_link 05ac0add-0eea-3905-706a-849209044167 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +315,7 @@ Shaping Time ({{< resource_link 05ac0add-0eea-3905-706a-849209044167 "PDF" >}})
 David Lafferty
 {{< tdclose >}}
 {{< tdopen >}}
-Made Public ({{< resource_link 6429958e-3dae-09d5-b819-56d2909795cd "PDF" >}})
+Made Public ({{% resource_link 6429958e-3dae-09d5-b819-56d2909795cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,9 +324,9 @@ Made Public ({{< resource_link 6429958e-3dae-09d5-b819-56d2909795cd "PDF" >}})
 Shauntel Poulson
 {{< tdclose >}}
 {{< tdopen >}}
-Made Public ({{< resource_link 66146bb9-afa4-ebfe-43e9-c55279d8b5f6 "PDF" >}})  
-Shaping Time ({{< resource_link 0e181678-85c6-4c96-0075-346aa7517eee "PDF" >}})  
-Body Extension ({{< resource_link e44d4be2-8960-9f10-b199-00ee8509679b "PDF" >}})
+Made Public ({{% resource_link 66146bb9-afa4-ebfe-43e9-c55279d8b5f6 "PDF" %}})  
+Shaping Time ({{% resource_link 0e181678-85c6-4c96-0075-346aa7517eee "PDF" %}})  
+Body Extension ({{% resource_link e44d4be2-8960-9f10-b199-00ee8509679b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -335,7 +335,7 @@ Body Extension ({{< resource_link e44d4be2-8960-9f10-b199-00ee8509679b "PDF" >}}
 Joaquin Ruiz
 {{< tdclose >}}
 {{< tdopen >}}
-Body Extension ({{< resource_link 28550d7e-e591-725a-07e7-57a2d1aae9f2 "PDF" >}})
+Body Extension ({{% resource_link 28550d7e-e591-725a-07e7-57a2d1aae9f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -344,7 +344,7 @@ Body Extension ({{< resource_link 28550d7e-e591-725a-07e7-57a2d1aae9f2 "PDF" >}}
 Tiffany Wang
 {{< tdclose >}}
 {{< tdopen >}}
-Shaping Time ({{< resource_link e0a80b3d-196b-b28c-bd89-b34bcfd42fd6 "PDF" >}})
+Shaping Time ({{% resource_link e0a80b3d-196b-b28c-bd89-b34bcfd42fd6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
