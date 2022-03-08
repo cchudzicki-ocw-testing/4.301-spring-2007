@@ -19,3 +19,7 @@ leftnav:
   name: Projects
   url: /pages/projects/
   weight: 50
+- identifier: d8c0f18b-d364-943c-ca0d-62602a9d06f9
+  name: Student Work 2004
+  url: /pages/projects/student-work-2004/
+  weight: 60
