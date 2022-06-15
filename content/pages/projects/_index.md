@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the course assignments.  Completed
+  projects from the 2004 and 2005 classes are also presented as examples of student
+  work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
