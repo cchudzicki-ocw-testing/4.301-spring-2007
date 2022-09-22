@@ -4,6 +4,7 @@ description: This resource contains an example of a completed student project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/d0e0b404e10c5f47fd9f4d5610468941_1jenniferdeboer.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student work 2004
 parent_type: CourseSection
